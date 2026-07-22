@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Eng. Al-Muntasir Billah | Personal Website",
+    "description": "Information engineer, Stamp Concrete specialist, and entrepreneur. Turning ideas into successful, valuable projects."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "portfolio": "Portfolio",
+    "hobbies": "Hobbies",
+    "contact": "Contact",
+    "cta": "Get in touch"
+  },
+  "hero": {
+    "welcome": "Welcome to my personal website",
+    "nameLine1": "Eng.",
+    "nameLine2": "Al-Muntasir Billah",
+    "roles": "Information Engineer  |  Stamp Concrete Specialist  |  Entrepreneur",
+    "tagline": "I turn ideas into successful, valuable projects — through innovation, smart planning, and professional execution.",
+    "ctaPrimary": "Get in touch",
+    "ctaSecondary": "My work"
+  },
+  "about": {
+    "eyebrow": "Get to know me",
+    "title": "About me",
+    "name": { "label": "Name", "value": "Eng. Al-Muntasir Billah" },
+    "degree": { "label": "Degree", "value": "B.Sc. in Information Engineering" },
+    "specialty": { "label": "Specialty", "value": "Information technology — Stamp Concrete" },
+    "work": { "label": "Work", "value": "Entrepreneur, Partner at Al-Najjar Cleaning Co." },
+    "interest": { "label": "Focus", "value": "Founding ventures and brands, development & marketing" },
+    "goal": { "label": "Goal", "value": "Building real value and leaving a positive impact" }
+  },
+  "experience": {
+    "eyebrow": "My journey",
+    "title": "Experience",
+    "items": [
+      {
+        "title": "Education",
+        "text": "Holds a degree in Information Engineering, a strong foundation in analysis, programming, and systems."
+      },
+      {
+        "title": "Specialization",
+        "text": "Specialist in Stamp Concrete, with experience in project execution and supervision."
+      },
+      {
+        "title": "Entrepreneurship",
+        "text": "Partner at Al-Najjar Cleaning Company, with experience in business management and product development."
+      },
+      {
+        "title": "Project management",
+        "text": "Experience planning commercial projects, building relationships, management, and marketing."
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Selected work",
+    "title": "Portfolio",
+    "more": "View more work",
+    "add": "Add image",
+    "items": [
+      { "name": "M.A.R Company", "tag": "Company" },
+      { "name": "M.A.R Health", "tag": "Health" },
+      { "name": "M.A.R Trade", "tag": "Trade" },
+      { "name": "Yaafour Matrix", "tag": "Tech" },
+      { "name": "Yaafour Store", "tag": "Store" }
+    ]
+  },
+  "hobbies": {
+    "eyebrow": "Outside work",
+    "title": "Hobbies",
+    "items": [
+      { "title": "Programming", "text": "I love programming and building websites and apps." },
+      { "title": "Reading & learning", "text": "Constant reading to keep gaining knowledge." },
+      { "title": "Sports", "text": "Physical fitness is a way of life." },
+      { "title": "Travel", "text": "Exploring new places and reflecting in nature." },
+      { "title": "Photography", "text": "Documenting beautiful moments and views." },
+      { "title": "Self-development", "text": "Improving skills and continuous growth." }
+    ]
+  },
+  "social": {
+    "title": "Follow me on",
+    "follow": "Follow now"
+  },
+  "cta": {
+    "title": "Want a consultation now?",
+    "subtitle": "I'm glad to offer consultations in:",
+    "items": ["Entrepreneurship", "Brand development", "Commercial projects", "Business management"],
+    "button": "Get started",
+    "directTitle": "Reach me directly",
+    "whatsapp": "Start chatting",
+    "telegram": "Message me now"
+  },
+  "footer": {
+    "tagline": "Information engineer, entrepreneur. Building successful projects and leaving a real impact.",
+    "quickLinks": "Quick links",
+    "followMe": "Follow me",
+    "rights": "All rights reserved"
+  }
+}

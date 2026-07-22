@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: var(--cairo-font);
+  --font-body: var(--cairo-font);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #F7F2E7;
+  color: #0E1A16;
+}
+
+/* Signature element: a hairline gold frame-corner motif used on hero
+   media and section eyebrows, echoing the arched-doorway visual from
+   the reference design. */
+.frame-corner {
+  position: relative;
+}
+.frame-corner::before,
+.frame-corner::after {
+  content: "";
+  position: absolute;
+  width: 34px;
+  height: 34px;
+  border: 2px solid #C9A24B;
+  z-index: 10;
+}
+.frame-corner::before {
+  top: -10px;
+  border-bottom: none;
+  border-right: none;
+}
+[dir="rtl"] .frame-corner::before {
+  border-right: 2px solid #C9A24B;
+  border-left: none;
+  left: -10px;
+}
+[dir="ltr"] .frame-corner::before {
+  border-left: 2px solid #C9A24B;
+  border-right: none;
+  left: -10px;
+}
+.frame-corner::after {
+  bottom: -10px;
+  border-top: none;
+}
+[dir="rtl"] .frame-corner::after {
+  border-left: 2px solid #C9A24B;
+  border-right: none;
+  right: -10px;
+}
+[dir="ltr"] .frame-corner::after {
+  border-right: 2px solid #C9A24B;
+  border-left: none;
+  right: -10px;
+}
+
+.eyebrow {
+  letter-spacing: 0.14em;
+}
+
+.divider-diamond::before {
+  content: "◆";
+  color: #C9A24B;
+  font-size: 0.55rem;
+  margin: 0 0.6rem;
+  vertical-align: middle;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    animation: reveal-up 0.7s ease both;
+  }
+}
+@keyframes reveal-up {
+  from { opacity: 0; transform: translateY(14px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+::selection {
+  background: #C9A24B;
+  color: #0E1A16;
+}

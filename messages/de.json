@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "Ing. Al-Muntasir Billah | Persönliche Website",
+    "description": "Informatikingenieur, Spezialist für Stamp Concrete und Unternehmer. Ideen werden zu erfolgreichen, wertvollen Projekten."
+  },
+  "nav": {
+    "home": "Start",
+    "about": "Über mich",
+    "experience": "Erfahrung",
+    "portfolio": "Projekte",
+    "hobbies": "Hobbys",
+    "contact": "Kontakt",
+    "cta": "Kontakt aufnehmen"
+  },
+  "hero": {
+    "welcome": "Willkommen auf meiner persönlichen Website",
+    "nameLine1": "Ing.",
+    "nameLine2": "Al-Muntasir Billah",
+    "roles": "Informatikingenieur  |  Spezialist für Stamp Concrete  |  Unternehmer",
+    "tagline": "Ich verwandle Ideen in erfolgreiche, wertvolle Projekte — mit Innovation, kluger Planung und professioneller Umsetzung.",
+    "ctaPrimary": "Kontakt aufnehmen",
+    "ctaSecondary": "Meine Projekte"
+  },
+  "about": {
+    "eyebrow": "Lernen Sie mich kennen",
+    "title": "Über mich",
+    "name": { "label": "Name", "value": "Ing. Al-Muntasir Billah" },
+    "degree": { "label": "Abschluss", "value": "B.Sc. in Informatiktechnik" },
+    "specialty": { "label": "Spezialisierung", "value": "Informationstechnologie — Stamp Concrete" },
+    "work": { "label": "Tätigkeit", "value": "Unternehmer, Partner bei Al-Najjar Reinigungsservice" },
+    "interest": { "label": "Schwerpunkt", "value": "Gründung von Projekten und Marken, Entwicklung & Marketing" },
+    "goal": { "label": "Ziel", "value": "Echten Wert schaffen und positiv wirken" }
+  },
+  "experience": {
+    "eyebrow": "Mein Werdegang",
+    "title": "Erfahrung",
+    "items": [
+      {
+        "title": "Ausbildung",
+        "text": "Abschluss in Informatiktechnik, solide Grundlage in Analyse, Programmierung und Systemen."
+      },
+      {
+        "title": "Spezialisierung",
+        "text": "Spezialist für Stamp Concrete, mit Erfahrung in Projektumsetzung und -aufsicht."
+      },
+      {
+        "title": "Unternehmertum",
+        "text": "Partner bei Al-Najjar Reinigungsservice, mit Erfahrung in Unternehmensführung und Produktentwicklung."
+      },
+      {
+        "title": "Projektmanagement",
+        "text": "Erfahrung in der Planung kommerzieller Projekte, im Beziehungsaufbau, Management und Marketing."
+      }
+    ]
+  },
+  "portfolio": {
+    "eyebrow": "Ausgewählte Projekte",
+    "title": "Projekte",
+    "more": "Weitere Projekte ansehen",
+    "add": "Bild hinzufügen",
+    "items": [
+      { "name": "M.A.R Company", "tag": "Unternehmen" },
+      { "name": "M.A.R Health", "tag": "Gesundheit" },
+      { "name": "M.A.R Trade", "tag": "Handel" },
+      { "name": "Yaafour Matrix", "tag": "Technik" },
+      { "name": "Yaafour Store", "tag": "Shop" }
+    ]
+  },
+  "hobbies": {
+    "eyebrow": "Neben der Arbeit",
+    "title": "Hobbys",
+    "items": [
+      { "title": "Programmieren", "text": "Ich liebe es, Websites und Apps zu entwickeln." },
+      { "title": "Lesen & Lernen", "text": "Stetiges Lesen, um Wissen zu gewinnen." },
+      { "title": "Sport", "text": "Körperliche Fitness ist eine Lebenseinstellung." },
+      { "title": "Reisen", "text": "Neue Orte entdecken und die Natur genießen." },
+      { "title": "Fotografie", "text": "Schöne Momente und Ausblicke festhalten." },
+      { "title": "Persönliche Entwicklung", "text": "Fähigkeiten verbessern und stetig wachsen." }
+    ]
+  },
+  "social": {
+    "title": "Folgen Sie mir auf",
+    "follow": "Jetzt folgen"
+  },
+  "cta": {
+    "title": "Jetzt eine Beratung vereinbaren?",
+    "subtitle": "Ich berate Sie gerne in folgenden Bereichen:",
+    "items": ["Unternehmertum", "Markenentwicklung", "Gewerbliche Projekte", "Unternehmensführung"],
+    "button": "Jetzt starten",
+    "directTitle": "Direkt Kontakt aufnehmen",
+    "whatsapp": "Chat starten",
+    "telegram": "Jetzt schreiben"
+  },
+  "footer": {
+    "tagline": "Informatikingenieur, Unternehmer. Erfolgreiche Projekte aufbauen und echten Mehrwert schaffen.",
+    "quickLinks": "Schnellzugriff",
+    "followMe": "Folgen Sie mir",
+    "rights": "Alle Rechte vorbehalten"
+  }
+}
