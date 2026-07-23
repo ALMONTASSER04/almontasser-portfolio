@@ -55,7 +55,7 @@ export default function Social() {
               className="reveal flex items-center gap-3 rounded-lg px-5 py-3 text-white font-semibold text-sm hover:opacity-90 transition-opacity min-w-[180px] justify-center"
               style={{ backgroundColor: p.color }}
             >
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
+              <svg width="19" height="18" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round">
                 {p.icon}
               </svg>
               {t("follow")}
